@@ -64,6 +64,24 @@ This approach can often identify better solutions than purely local search metho
 - Gradient-Based Methods
 - Computational Visualization
 
+## Example Outputs
+
+### Particle Swarm Optimization
+
+images/PSO.png
+
+### Gradient Ascent / Gradient Descent
+
+images/GAD.png
+
+### Hill Climbing
+
+images/Hill.png
+
+### Simulated Annealing
+
+images/SimAnn.png
+
 ## Technologies
 
 - MATLAB
