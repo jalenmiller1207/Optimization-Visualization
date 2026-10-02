@@ -68,7 +68,8 @@ This approach can often identify better solutions than purely local search metho
 
 ### Particle Swarm Optimization
 
-images/PSO.png
+<img width="1592" height="946" alt="Screenshot 2026-10-02 at 12 05 40 AM" src="https://github.com/user-attachments/assets/693170b0-5e6c-4f04-af3c-752d0bf56c10" />
+
 
 ### Gradient Ascent / Gradient Descent
 
