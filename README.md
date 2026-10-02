@@ -73,15 +73,16 @@ This approach can often identify better solutions than purely local search metho
 
 ### Gradient Ascent / Gradient Descent
 
-images/GAD.png
+<img width="1592" height="946" alt="Screenshot 2026-10-02 at 12 11 10 AM" src="https://github.com/user-attachments/assets/a85a0a75-7ec0-4856-8059-c3342f2fe174" />
 
 ### Hill Climbing
 
-images/Hill.png
+<img width="1592" height="946" alt="Screenshot 2026-10-02 at 12 11 52 AM" src="https://github.com/user-attachments/assets/afc2d191-4f7d-40d9-8957-d483d8e0411e" />
 
 ### Simulated Annealing
 
-images/SimAnn.png
+<img width="1592" height="946" alt="Screenshot 2026-10-02 at 12 12 20 AM" src="https://github.com/user-attachments/assets/9c16dc8f-980f-45a6-8225-d8260cfb44bd" />
+
 
 ## Technologies
 
